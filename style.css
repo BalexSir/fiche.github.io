@@ -1,0 +1,27 @@
+* { 
+    font-family : Arial;
+    background-color: 	#DCDCDC	;
+    text-align: center;
+}
+
+table {
+    border: solid;
+    border-color: #800080; 
+    border-collapse: collapse;
+    margin-left: 350px; 
+}
+
+td, th {
+    border: thin solid;
+    text-align: center; 
+   
+    
+}
+
+th {
+    background-color: #F08080	; 
+}
+
+h2{
+    color: #800080; 
+}
